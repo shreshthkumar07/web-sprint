@@ -1,710 +1,636 @@
 .desktop {
-    background-color: #f8ed8c;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    width: 100%;
-  }
-  
-  .desktop .div {
-    background-color: var(--d-2);
-    height: 5220px;
-    position: relative;
-    width: 1440px;
-  }
-  
-  .desktop .overlap {
-    background-color: var(--d-4);
-    height: 1070px;
-    left: 0;
-    position: absolute;
-    top: 0;
-    width: 1440px;
-  }
-  
-  .desktop .frame {
-    background-color: var(--d-1);
-    border-radius: 0px 0px 250px 0px;
-    height: 224px;
-    overflow: hidden;
-    position: relative;
-  }
-  
-  .desktop .navbar {
-    height: 36px;
-    left: 128px;
-    position: absolute;
-    top: 130px;
-    width: 1000px;
-  }
-  
-  .desktop .text-wrapper {
-    color: #ffffff;
-    font-family: "Merriweather-Regular", Helvetica;
-    font-size: 32px;
-    font-weight: 400;
-    left: 153px;
-    letter-spacing: 0;
-    line-height: normal;
-    position: absolute;
-    top: 0;
-    white-space: nowrap;
-    width: 206px;
-  }
-  
-  .desktop .text-wrapper-2 {
-    color: #ffffff;
-    font-family: "Merriweather-Regular", Helvetica;
-    font-size: 32px;
-    font-weight: 400;
-    left: 613px;
-    letter-spacing: 0;
-    line-height: normal;
-    position: absolute;
-    top: 0;
-    white-space: nowrap;
-    width: 154px;
-  }
-  
-  .desktop .text-wrapper-3 {
-    color: #ffffff;
-    font-family: "Merriweather-Regular", Helvetica;
-    font-size: 32px;
-    font-weight: 400;
-    left: 409px;
-    letter-spacing: 0;
-    line-height: normal;
-    position: absolute;
-    top: 0;
-    white-space: nowrap;
-    width: 154px;
-  }
-  
-  .desktop .text-wrapper-4 {
-    color: #ffffff;
-    font-family: "Merriweather-Regular", Helvetica;
-    font-size: 32px;
-    font-weight: 400;
-    left: 817px;
-    letter-spacing: 0;
-    line-height: normal;
-    position: absolute;
-    top: 0;
-    white-space: nowrap;
-    width: 173px;
-  }
-  
-  .desktop .text-wrapper-5 {
-    color: #ffffff;
-    font-family: "Merriweather-Regular", Helvetica;
-    font-size: 32px;
-    font-weight: 400;
-    left: 0;
-    letter-spacing: 0;
-    line-height: normal;
-    position: absolute;
-    top: 0;
-    white-space: nowrap;
-    width: 103px;
-  }
-  
-  .desktop .group {
-    height: 106px;
-    left: 126px;
-    position: absolute;
-    top: -11px;
-    width: 669px;
-  }
-  
-  .desktop .overlap-group {
-    height: 106px;
-    position: relative;
-    width: 667px;
-  }
-  
-  .desktop .text-wrapper-6 {
-    color: #ffffff;
-    font-family: "Playfair Display-Regular", Helvetica;
-    font-size: 96px;
-    font-weight: 400;
-    left: 0;
-    letter-spacing: 0;
-    line-height: normal;
-    position: absolute;
-    top: 0;
-    white-space: nowrap;
-    width: 667px;
-  }
-  
-  .desktop .vector {
-    height: 49px;
-    left: 553px;
-    position: absolute;
-    top: 42px;
-    width: 62px;
-  }
-  
-  .desktop .img {
-    height: 13px;
-    left: 553px;
-    position: absolute;
-    top: 91px;
-    width: 62px;
-  }
-  
-  .desktop .frame-2 {
-    background-color: var(--d-4);
-    height: 1070px;
-    left: 0;
-    position: absolute;
-    top: 1312px;
-    width: 1440px;
-  }
-  
-  .desktop .frame-3 {
-    background-color: var(--d-4);
-    height: 1070px;
-    left: 0;
-    position: absolute;
-    top: 2624px;
-    width: 1440px;
-  }
-  
-  .desktop .frame-4 {
-    background-color: var(--d-4);
-    height: 1070px;
-    left: 0;
-    position: absolute;
-    top: 3936px;
-    width: 1440px;
-  }
-  
-  .desktop .frame-5 {
-    background-color: var(--d-3);
-    height: 214px;
-    left: 0;
-    position: absolute;
-    top: 5006px;
-    width: 1440px;
-  }
-  
-  .desktop .text-wrapper-7 {
-    color: #ffffff;
-    font-family: "Merriweather-Regular", Helvetica;
-    font-size: 32px;
-    font-weight: 400;
-    left: 624px;
-    letter-spacing: 0;
-    line-height: normal;
-    position: absolute;
-    text-align: center;
-    top: 14px;
-    width: 191px;
-  }
-  
-  .desktop .group-2 {
-    height: 43px;
-    left: 117px;
-    position: absolute;
-    top: 85px;
-    width: 1206px;
-  }
-  
-  .desktop .group-3 {
-    height: 40px;
-    left: 0;
-    position: absolute;
-    top: 0;
-    width: 475px;
-  }
-  
-  .desktop .vector-2 {
-    height: 40px;
-    left: 0;
-    position: absolute;
-    top: 0;
-    width: 49px;
-  }
-  
-  .desktop .text-wrapper-8 {
-    color: #ffffff;
-    font-family: "Merriweather-Regular", Helvetica;
-    font-size: 32px;
-    font-weight: 400;
-    left: 49px;
-    letter-spacing: 0;
-    line-height: normal;
-    position: absolute;
-    text-align: center;
-    top: 0;
-    white-space: nowrap;
-    width: 424px;
-  }
-  
-  .desktop .group-4 {
-    height: 43px;
-    left: 504px;
-    position: absolute;
-    top: 0;
-    width: 325px;
-  }
-  
-  .desktop .vector-3 {
-    height: 40px;
-    left: 0;
-    position: absolute;
-    top: 3px;
-    width: 49px;
-  }
-  
-  .desktop .text-wrapper-9 {
-    color: #ffffff;
-    font-family: "Merriweather-Regular", Helvetica;
-    font-size: 32px;
-    font-weight: 400;
-    left: 56px;
-    letter-spacing: 0;
-    line-height: normal;
-    position: absolute;
-    text-align: center;
-    top: 0;
-    width: 267px;
-  }
-  
-  .desktop .group-5 {
-    height: 40px;
-    left: 907px;
-    position: absolute;
-    top: 3px;
-    width: 301px;
-  }
-  
-  .desktop .text-wrapper-10 {
-    color: #ffffff;
-    font-family: "Merriweather-Regular", Helvetica;
-    font-size: 32px;
-    font-weight: 400;
-    left: 59px;
-    letter-spacing: 0;
-    line-height: normal;
-    position: absolute;
-    text-align: center;
-    top: 2px;
-    white-space: nowrap;
-    width: 240px;
-  }
-  .desktop {
-    background-color: #f8ed8c;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    width: 100%;
-  }
-  
-  .desktop .div {
-    background-color: var(--d-2);
-    height: 5220px;
-    overflow: hidden;
-    position: relative;
-    width: 1440px;
-  }
-  
-  .desktop .frame {
-    background-color: var(--d-4);
-    height: 1070px;
-    left: -13px;
-    position: absolute;
-    top: 0;
-    width: 1440px;
-  }
-  
-  .desktop .pic {
-    height: 574px;
-    left: 698px;
-    object-fit: cover;
-    position: absolute;
-    top: 496px;
-    width: 626px;
-  }
-  
-  .desktop .indulge-in-the {
-    color: #000000;
-    font-family: "Merriweather-Regular", Helvetica;
-    font-size: 64px;
-    font-weight: 400;
-    left: 147px;
-    letter-spacing: 0;
-    line-height: normal;
-    position: absolute;
-    text-shadow: 0px 4px 4px #00000040;
-    top: 293px;
-    width: 1185px;
-  }
-  
-  .desktop .img {
-    height: 474px;
-    left: 160px;
-    object-fit: cover;
-    position: absolute;
-    top: 551px;
-    width: 474px;
-  }
-  
-  .desktop .subscription {
-    background-color: var(--d-4);
-    height: 1070px;
-    left: 0;
-    position: absolute;
-    top: 1312px;
-    width: 1440px;
-  }
-  
-  .desktop .https-lottiefiles {
-    height: 455px;
-    left: 920px;
-    object-fit: cover;
-    position: absolute;
-    top: 615px;
-    width: 500px;
-  }
-  
-  .desktop .text-wrapper {
-    color: #000000;
-    font-family: "Merriweather-Regular", Helvetica;
-    font-size: 64px;
-    font-weight: 400;
-    left: 129px;
-    letter-spacing: 0;
-    line-height: normal;
-    position: absolute;
-    top: 64px;
-    width: 1275px;
-  }
-  
-  .desktop .box-craft {
-    background-color: var(--d-4);
-    height: 1070px;
-    left: 0;
-    position: absolute;
-    top: 2624px;
-    width: 1440px;
-  }
-  
-  .desktop .create-your-perfect {
-    color: #000000;
-    font-family: "Merriweather-Regular", Helvetica;
-    font-size: 64px;
-    font-weight: 400;
-    left: 139px;
-    letter-spacing: 0;
-    line-height: normal;
-    position: absolute;
-    top: -1px;
-    width: 642px;
-  }
-  
-  .desktop .group {
-    height: 123px;
-    left: 155px;
-    position: absolute;
-    top: 844px;
-    width: 295px;
-  }
-  
-  .desktop .overlap-group {
-    background-color: var(--d-3);
-    border-radius: 25px;
-    box-shadow: 0px 4px 4px #00000040;
-    height: 123px;
-    position: relative;
-    width: 293px;
-  }
-  
-  .desktop .text-wrapper-2 {
-    color: #ffffff;
-    font-family: "Merriweather-Regular", Helvetica;
-    font-size: 64px;
-    font-weight: 400;
-    left: 8px;
-    letter-spacing: 0;
-    line-height: normal;
-    position: absolute;
-    top: 19px;
-    white-space: nowrap;
-    width: 285px;
-  }
-  
-  .desktop .https-lottiefiles-2 {
-    height: 542px;
-    left: 557px;
-    object-fit: cover;
-    position: absolute;
-    top: 240px;
-    width: 691px;
-  }
-  
-  .desktop .frame-2 {
-    background-color: var(--d-4);
-    height: 1070px;
-    left: 0;
-    position: absolute;
-    top: 3936px;
-    width: 1440px;
-  }
-  
-  .desktop .frame-3 {
-    background-color: var(--d-3);
-    box-shadow: inset 0px 4px 4px #00000040;
-    height: 214px;
-    left: 0;
-    position: absolute;
-    top: 5006px;
-    width: 1440px;
-  }
-  
-  .desktop .text-wrapper-3 {
-    color: #ffffff;
-    font-family: "Merriweather-Regular", Helvetica;
-    font-size: 32px;
-    font-weight: 400;
-    left: 624px;
-    letter-spacing: 0;
-    line-height: normal;
-    position: absolute;
-    text-align: center;
-    top: 14px;
-    width: 191px;
-  }
-  
-  .desktop .group-2 {
-    height: 40px;
-    left: 117px;
-    position: absolute;
-    top: 85px;
-    width: 475px;
-  }
-  
-  .desktop .vector {
-    height: 40px;
-    left: 0;
-    position: absolute;
-    top: 0;
-    width: 49px;
-  }
-  
-  .desktop .text-wrapper-4 {
-    color: #ffffff;
-    font-family: "Merriweather-Regular", Helvetica;
-    font-size: 32px;
-    font-weight: 400;
-    left: 49px;
-    letter-spacing: 0;
-    line-height: normal;
-    position: absolute;
-    text-align: center;
-    top: 0;
-    white-space: nowrap;
-    width: 424px;
-  }
-  
-  .desktop .group-3 {
-    height: 43px;
-    left: 621px;
-    position: absolute;
-    top: 85px;
-    width: 325px;
-  }
-  
-  .desktop .vector-2 {
-    height: 40px;
-    left: 0;
-    position: absolute;
-    top: 3px;
-    width: 49px;
-  }
-  
-  .desktop .text-wrapper-5 {
-    color: #ffffff;
-    font-family: "Merriweather-Regular", Helvetica;
-    font-size: 32px;
-    font-weight: 400;
-    left: 56px;
-    letter-spacing: 0;
-    line-height: normal;
-    position: absolute;
-    text-align: center;
-    top: 0;
-    width: 267px;
-  }
-  
-  .desktop .group-4 {
-    height: 40px;
-    left: 1024px;
-    position: absolute;
-    top: 88px;
-    width: 301px;
-  }
-  
-  .desktop .text-wrapper-6 {
-    color: #ffffff;
-    font-family: "Merriweather-Regular", Helvetica;
-    font-size: 32px;
-    font-weight: 400;
-    left: 59px;
-    letter-spacing: 0;
-    line-height: normal;
-    position: absolute;
-    text-align: center;
-    top: 2px;
-    white-space: nowrap;
-    width: 240px;
-  }
-  
-  .desktop .overlap-wrapper {
-    background-color: var(--d-1);
-    border-radius: 0px 0px 250px 0px;
-    height: 224px;
-    left: 0;
-    overflow: hidden;
-    position: fixed;
-    top: 0;
-    width: 1440px;
-  }
-  
-  .desktop .overlap {
-    height: 177px;
-    left: 126px;
-    position: relative;
-    top: -11px;
-    width: 1138px;
-  }
-  
-  .desktop .navbar {
-    height: 36px;
-    left: 2px;
-    position: absolute;
-    top: 141px;
-    width: 1000px;
-  }
-  
-  .desktop .text-wrapper-7 {
-    color: #ffffff;
-    font-family: "Merriweather-Regular", Helvetica;
-    font-size: 32px;
-    font-weight: 400;
-    left: 153px;
-    letter-spacing: 0;
-    line-height: normal;
-    position: absolute;
-    top: 0;
-    white-space: nowrap;
-    width: 206px;
-  }
-  
-  .desktop .text-wrapper-8 {
-    color: #ffffff;
-    font-family: "Merriweather-Regular", Helvetica;
-    font-size: 32px;
-    font-weight: 400;
-    left: 613px;
-    letter-spacing: 0;
-    line-height: normal;
-    position: absolute;
-    top: 0;
-    white-space: nowrap;
-    width: 154px;
-  }
-  
-  .desktop .text-wrapper-9 {
-    color: #ffffff;
-    font-family: "Merriweather-Regular", Helvetica;
-    font-size: 32px;
-    font-weight: 400;
-    left: 409px;
-    letter-spacing: 0;
-    line-height: normal;
-    position: absolute;
-    top: 0;
-    white-space: nowrap;
-    width: 154px;
-  }
-  
-  .desktop .text-wrapper-10 {
-    color: #ffffff;
-    font-family: "Merriweather-Regular", Helvetica;
-    font-size: 32px;
-    font-weight: 400;
-    left: 817px;
-    letter-spacing: 0;
-    line-height: normal;
-    position: absolute;
-    top: 0;
-    white-space: nowrap;
-    width: 173px;
-  }
-  
-  .desktop .text-wrapper-11 {
-    color: #ffffff;
-    font-family: "Merriweather-Regular", Helvetica;
-    font-size: 32px;
-    font-weight: 400;
-    left: 0;
-    letter-spacing: 0;
-    line-height: normal;
-    position: absolute;
-    top: 0;
-    white-space: nowrap;
-    width: 103px;
-  }
-  
-  .desktop .overlap-group-wrapper {
-    height: 106px;
-    left: 0;
-    position: absolute;
-    top: 0;
-    width: 669px;
-  }
-  
-  .desktop .overlap-group-2 {
-    height: 106px;
-    position: relative;
-    width: 667px;
-  }
-  
-  .desktop .text-wrapper-12 {
-    color: #ffffff;
-    font-family: "Playfair Display-Regular", Helvetica;
-    font-size: 96px;
-    font-weight: 400;
-    left: 0;
-    letter-spacing: 0;
-    line-height: normal;
-    position: absolute;
-    top: 0;
-    white-space: nowrap;
-    width: 667px;
-  }
-  
-  .desktop .vector-3 {
-    height: 49px;
-    left: 553px;
-    position: absolute;
-    top: 42px;
-    width: 62px;
-  }
-  
-  .desktop .vector-4 {
-    height: 13px;
-    left: 553px;
-    position: absolute;
-    top: 91px;
-    width: 62px;
-  }
-  
-  .desktop .frame-4 {
-    height: 106px;
-    left: 471px;
-    position: absolute;
-    top: 53px;
-    width: 667px;
-  }
+  background-color: #f8ed8c;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.desktop .div {
+  background-color: var(--d-2);
+  height: 5220px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.desktop .frame {
+  background-color: var(--d-4);
+  height: 1070px;
+  left: -13px;
+  position: absolute;
+  top: 0;
+  width: 1453px;
+}
+
+.desktop .pic {
+  height: 576px;
+  left: 740px;
+  object-fit: cover;
+  position: absolute;
+  top: 494px;
+  width: 626px;
+}
+
+.desktop .indulge-in-the {
+  color: #000000;
+  font-family: "Merriweather-Regular", Helvetica;
+  font-size: 64px;
+  font-weight: 400;
+  left: 147px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 293px;
+  width: 1185px;
+}
+
+.desktop .overlap-group {
+  height: 490px;
+  left: 145px;
+  position: absolute;
+  top: 535px;
+  width: 553px;
+}
+
+.desktop .img {
+  height: 474px;
+  left: 15px;
+  object-fit: cover;
+  position: absolute;
+  top: 16px;
+  width: 474px;
+}
+
+.desktop .frame-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 553px;
+}
+
+.desktop .text-wrapper {
+  align-self: stretch;
+  color: #000000;
+  font-family: "Merriweather-Regular", Helvetica;
+  font-size: 64px;
+  font-weight: 400;
+  height: 84px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.desktop .text-wrapper-2 {
+  align-self: stretch;
+  color: #000000;
+  font-family: "Merriweather-Regular", Helvetica;
+  font-size: 64px;
+  font-weight: 400;
+  height: 84px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.desktop .subscription {
+  background-color: var(--d-4);
+  height: 1070px;
+  left: 0;
+  position: absolute;
+  top: 1286px;
+  width: 1440px;
+}
+
+.desktop .overlap {
+  background-image: url(./pic2-4.png);
+  background-size: 100% 100%;
+  height: 1070px;
+  position: relative;
+}
+
+.desktop .overlap-2 {
+  height: 613px;
+  left: 767px;
+  position: absolute;
+  top: 457px;
+  width: 653px;
+}
+
+.desktop .https-lottiefiles {
+  height: 455px;
+  left: 153px;
+  object-fit: cover;
+  position: absolute;
+  top: 158px;
+  width: 500px;
+}
+
+.desktop .rectangle {
+  background-color: var(--d-1);
+  border-radius: 25px;
+  height: 226px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 454px;
+}
+
+.desktop .monthly-plans {
+  color: #ffffff;
+  font-family: "Merriweather-Regular", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  left: 81px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 26px;
+  white-space: nowrap;
+  width: 337px;
+}
+
+.desktop .subscribe-savor-your {
+  color: #000000;
+  font-family: "Merriweather-Regular", Helvetica;
+  font-size: 64px;
+  font-weight: 400;
+  left: 129px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 64px;
+  width: 1275px;
+}
+
+.desktop .why-subscribe-enjoy {
+  color: #000000;
+  font-family: "Merriweather-Regular", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 129px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 231px;
+  width: 1156px;
+}
+
+.desktop .weekly-plans-wrapper {
+  background-color: var(--d-1);
+  border-radius: 25px;
+  height: 226px;
+  left: 130px;
+  position: absolute;
+  top: 457px;
+  width: 454px;
+}
+
+.desktop .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "Merriweather-Regular", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  left: 87px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 32px;
+  white-space: nowrap;
+  width: 337px;
+}
+
+.desktop .seasonal-plans-wrapper {
+  background-color: var(--d-1);
+  border-radius: 25px;
+  height: 226px;
+  left: 130px;
+  position: absolute;
+  top: 752px;
+  width: 454px;
+}
+
+.desktop .box-craft {
+  background-color: var(--d-4);
+  height: 1070px;
+  left: 0;
+  position: absolute;
+  top: 2624px;
+  width: 1440px;
+}
+
+.desktop .overlap-3 {
+  background-image: url(./pic2-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1070px;
+  position: relative;
+}
+
+.desktop .create-your-perfect {
+  color: #000000;
+  font-family: "Merriweather-Regular", Helvetica;
+  font-size: 64px;
+  font-weight: 400;
+  left: 152px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 61px;
+  width: 642px;
+}
+
+.desktop .group {
+  height: 123px;
+  left: 235px;
+  position: absolute;
+  top: 733px;
+  width: 295px;
+}
+
+.desktop .div-wrapper {
+  background-color: var(--d-3);
+  border-radius: 25px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 123px;
+  position: relative;
+  width: 293px;
+}
+
+.desktop .text-wrapper-4 {
+  color: #ffffff;
+  font-family: "Merriweather-Regular", Helvetica;
+  font-size: 64px;
+  font-weight: 400;
+  left: 8px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 19px;
+  white-space: nowrap;
+  width: 285px;
+}
+
+.desktop .https-lottiefiles-2 {
+  height: 525px;
+  left: 733px;
+  object-fit: cover;
+  position: absolute;
+  top: 545px;
+  width: 691px;
+}
+
+.desktop .handpick-your {
+  color: #000000;
+  font-family: "Merriweather-Regular", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  left: 137px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 330px;
+  width: 1238px;
+}
+
+.desktop .overlap-wrapper {
+  background-color: var(--d-4);
+  height: 1070px;
+  left: 0;
+  position: absolute;
+  top: 3936px;
+  width: 1440px;
+}
+
+.desktop .overlap-4 {
+  background-image: url(./pic2-3.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1070px;
+  left: 3px;
+  position: relative;
+  width: 1437px;
+}
+
+.desktop .https-lottiefiles-3 {
+  height: 549px;
+  left: 919px;
+  object-fit: cover;
+  position: absolute;
+  top: 446px;
+  width: 500px;
+}
+
+.desktop .a-delightful {
+  color: #000000;
+  font-family: "Merriweather-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 146px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 120px;
+  width: 746px;
+}
+
+.desktop .what-our-customers {
+  color: #000000;
+  font-family: "Merriweather-Regular", Helvetica;
+  font-size: 64px;
+  font-weight: 400;
+  left: 314px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 17px;
+  width: 805px;
+}
+
+.desktop .overlap-group-2 {
+  background-color: var(--d-3);
+  border-radius: 25px;
+  height: 72px;
+  left: 146px;
+  position: absolute;
+  top: 945px;
+  width: 311px;
+}
+
+.desktop .text-wrapper-5 {
+  color: #ffffff;
+  font-family: "Merriweather-Regular", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  left: 31px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  white-space: nowrap;
+  width: 249px;
+}
+
+.desktop .frame-3 {
+  background-color: var(--d-3);
+  box-shadow: inset 0px 4px 4px #00000040;
+  height: 214px;
+  left: 0;
+  position: absolute;
+  top: 5006px;
+  width: 1440px;
+}
+
+.desktop .text-wrapper-6 {
+  color: #ffffff;
+  font-family: "Merriweather-Regular", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 624px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 14px;
+  width: 191px;
+}
+
+.desktop .group-2 {
+  height: 40px;
+  left: 117px;
+  position: absolute;
+  top: 85px;
+  width: 475px;
+}
+
+.desktop .vector {
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 49px;
+}
+
+.desktop .text-wrapper-7 {
+  color: #ffffff;
+  font-family: "Merriweather-Regular", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 49px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 424px;
+}
+
+.desktop .group-3 {
+  height: 43px;
+  left: 621px;
+  position: absolute;
+  top: 85px;
+  width: 325px;
+}
+
+.desktop .vector-2 {
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 3px;
+  width: 49px;
+}
+
+.desktop .text-wrapper-8 {
+  color: #ffffff;
+  font-family: "Merriweather-Regular", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 56px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 267px;
+}
+
+.desktop .group-4 {
+  height: 40px;
+  left: 1024px;
+  position: absolute;
+  top: 88px;
+  width: 301px;
+}
+
+.desktop .text-wrapper-9 {
+  color: #ffffff;
+  font-family: "Merriweather-Regular", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 59px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 2px;
+  white-space: nowrap;
+  width: 240px;
+}
+
+.desktop .overlap-group-wrapper {
+  background-color: var(--d-1);
+  border-radius: 0px 0px 250px 0px;
+  height: 224px;
+  left: 0;
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  width: 1440px;
+}
+
+.desktop .overlap-5 {
+  height: 178px;
+  left: 126px;
+  position: relative;
+  top: -11px;
+  width: 1138px;
+}
+
+.desktop .navbar {
+  height: 36px;
+  left: 74px;
+  position: absolute;
+  top: 142px;
+  width: 1000px;
+}
+
+.desktop .text-wrapper-10 {
+  color: #ffffff;
+  font-family: "Merriweather-Regular", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 153px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 206px;
+}
+
+.desktop .text-wrapper-11 {
+  color: #ffffff;
+  font-family: "Merriweather-Regular", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 613px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 154px;
+}
+
+.desktop .text-wrapper-12 {
+  color: #ffffff;
+  font-family: "Merriweather-Regular", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 409px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 154px;
+}
+
+.desktop .text-wrapper-13 {
+  color: #ffffff;
+  font-family: "Merriweather-Regular", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 817px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 173px;
+}
+
+.desktop .text-wrapper-14 {
+  color: #ffffff;
+  font-family: "Merriweather-Regular", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 103px;
+}
+
+.desktop .group-5 {
+  height: 106px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 669px;
+}
+
+.desktop .overlap-group-3 {
+  height: 106px;
+  position: relative;
+  width: 667px;
+}
+
+.desktop .text-wrapper-15 {
+  color: #ffffff;
+  font-family: "Playfair Display-Regular", Helvetica;
+  font-size: 96px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 667px;
+}
+
+.desktop .vector-3 {
+  height: 49px;
+  left: 553px;
+  position: absolute;
+  top: 42px;
+  width: 62px;
+}
+
+.desktop .vector-4 {
+  height: 13px;
+  left: 553px;
+  position: absolute;
+  top: 91px;
+  width: 62px;
+}
+
+.desktop .frame-4 {
+  height: 106px;
+  left: 471px;
+  position: absolute;
+  top: 71px;
+  width: 667px;
+}
